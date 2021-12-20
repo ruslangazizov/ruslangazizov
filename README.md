@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ruslan Gazizov
 - 👀 I’m interested in iOS & Python development
 - 🌱 I’m currently learning Swift & Python
-- 📫 You can reach me via telegram @etimesoy
+- 📫 Reach me via telegram @etimesoy
+- 🦊 You can also find my activities at gitlab.com/etimesoy
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2022%20mins-blue)
