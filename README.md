@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruslan Gazizov
-- 🌱 I’m currently learning Swift & Python
+- 🌱 I’m currently learning Python & Swift
 - 📫 Reach me via telegram [@etimesoy](https://t.me/etimesoy/)
 - 🦊 You can also find my activities at [GitLab](https://gitlab.com/etimesoy)
 
