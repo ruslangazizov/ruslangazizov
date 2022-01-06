@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/2ab87185-4ad3-4738-8453-a0003550c99b.svg)](https://wakatime.com/@2ab87185-4ad3-4738-8453-a0003550c99b)
 - 👋 Hi, I’m Ruslan Gazizov
 - 🌱 I’m currently learning Python & Swift
 - 📫 Reach me via telegram [@etimesoy](https://t.me/etimesoy/)
