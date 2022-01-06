@@ -1,13 +1,14 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
-  workflow_dispatch:
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -22,3 +23,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "True"
+          LOCALE: "en"
