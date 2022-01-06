@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ruslan Gazizov
+Hi there 👋
 - 🌱 I’m currently learning Python & Swift
 - 📫 Reach me via telegram [@etimesoy](https://t.me/etimesoy/)
 - 🦊 You can also find my activities at [GitLab](https://gitlab.com/etimesoy)
