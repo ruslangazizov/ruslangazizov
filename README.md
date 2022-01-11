@@ -4,7 +4,7 @@
 - 🦊 You can also find my activities at [GitLab](https://gitlab.com/etimesoy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181%20Thousand%20lines%20of%20code-blue)
 
@@ -37,18 +37,18 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   7 hrs 15 mins       █████████████████████░░░░   83.69% 
+Python                   7 hrs 16 mins       █████████████████████░░░░   83.7% 
 Text                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
 YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
 Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
 PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Editors: 
-PyCharm                  8 hrs 39 mins       █████████████████████████   99.87% 
+PyCharm                  8 hrs 40 mins       █████████████████████████   99.87% 
 Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 ```
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
