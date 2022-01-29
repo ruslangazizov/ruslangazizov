@@ -4,8 +4,6 @@
 - 🦊 You can also find my activities at [GitLab](https://gitlab.com/etimesoy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -50,5 +48,5 @@ Xcode                    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/01/2022 18:44:00 UTC
+ Last Updated on 29/01/2022 18:50:58 UTC
 <!--END_SECTION:waka-->
