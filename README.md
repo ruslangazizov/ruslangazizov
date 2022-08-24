@@ -4,7 +4,7 @@
 - 🦊 You can also find my activities at [GitLab](https://gitlab.com/etimesoy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-188%20Thousand%20lines%20of%20code-blue)
 
@@ -14,13 +14,14 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              ███████████████████████░░   91.56% 
+GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.44%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  9 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/08/2022 18:51:29 UTC
+ Last Updated on 24/08/2022 18:57:46 UTC
 <!--END_SECTION:waka-->
