@@ -1,3 +1,4 @@
-## Hi there 👋
-- 🌱 I’m currently learning Swift
-- 📫 Reach me via telegram [@ruslangazizov21](https://t.me/ruslangazizov21)
+## Hi there, my name is Ruslan 👋
+- iOS Software Engineer
+- 5+ years of experience
+- Strong knowledge in Swift, UIKit, SwiftUI
